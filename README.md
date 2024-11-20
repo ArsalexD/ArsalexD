@@ -20,7 +20,8 @@ I'm a passionate software developer with a strong interest in creating scalable 
 - **Development Practices**: Agile methodology, version control with Git, continuous integration, etc.
 
 ## Contact
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/alejandro-carrasco-pineda-912b40270) or [Email](alejandro.arsalex@hotmail.com).
+Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/alejandro-carrasco-pineda-912b40270) or via email: [alejandro.arsalex@hotmail.com](mailto:alejandro.arsalex@hotmail.com).
+
 
 
 Thank you for visiting my portfolio! 🚀
