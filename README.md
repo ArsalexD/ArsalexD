@@ -1,4 +1,4 @@
-# Hi there, I'm ArsalexD 👋
+# Hi there, I'm Alejandro Carrasco Pineda 👋
 
 Welcome to my professional portfolio! This repository showcases my personal projects, open-source contributions, and software development practices focused on optimization, efficiency, and collaboration.
 
